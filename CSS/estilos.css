@@ -1,0 +1,48 @@
+body{
+    font-family: 'Sansita Swashed', cursive;
+    background-color: lightseagreen;
+    margin: 0px;
+}
+
+.resume{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: lightgrey;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+#p1{
+    margin: 0px;
+}
+
+p{
+    text-align: justify;
+    margin-bottom: 0px;
+}
+.contactoPersonal{
+    max-width: 1000px;
+    text-align: center;
+}
+
+img{
+    padding-left: 99px;
+    
+}
+
+h1,h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: right;
+}
+
+hr{
+    color: lightblue;
+}
+
+h3{
+    background-color: lightblue;
+    font-style: oblique;
+}
